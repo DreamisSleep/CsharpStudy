@@ -1,0 +1,9 @@
+C:\Users\goats\Desktop\C#\HelloWorld\WindowsFormsHelloWorld\bin\Debug\WindowsFormsHelloWorld.exe.config
+C:\Users\goats\Desktop\C#\HelloWorld\WindowsFormsHelloWorld\bin\Debug\WindowsFormsHelloWorld.exe
+C:\Users\goats\Desktop\C#\HelloWorld\WindowsFormsHelloWorld\bin\Debug\WindowsFormsHelloWorld.pdb
+C:\Users\goats\Desktop\C#\HelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.Form1.resources
+C:\Users\goats\Desktop\C#\HelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.Properties.Resources.resources
+C:\Users\goats\Desktop\C#\HelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.csproj.GenerateResource.cache
+C:\Users\goats\Desktop\C#\HelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\goats\Desktop\C#\HelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.exe
+C:\Users\goats\Desktop\C#\HelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.pdb
