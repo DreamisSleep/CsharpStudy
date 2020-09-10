@@ -1,0 +1,7 @@
+C:\Users\goats\Desktop\C#\02주차 실습\CoffeeMaker\bin\Debug\CoffeeMaker.exe.config
+C:\Users\goats\Desktop\C#\02주차 실습\CoffeeMaker\bin\Debug\CoffeeMaker.exe
+C:\Users\goats\Desktop\C#\02주차 실습\CoffeeMaker\bin\Debug\CoffeeMaker.pdb
+C:\Users\goats\Desktop\C#\02주차 실습\CoffeeMaker\obj\Debug\CoffeeMaker.csprojAssemblyReference.cache
+C:\Users\goats\Desktop\C#\02주차 실습\CoffeeMaker\obj\Debug\CoffeeMaker.csproj.CoreCompileInputs.cache
+C:\Users\goats\Desktop\C#\02주차 실습\CoffeeMaker\obj\Debug\CoffeeMaker.exe
+C:\Users\goats\Desktop\C#\02주차 실습\CoffeeMaker\obj\Debug\CoffeeMaker.pdb
