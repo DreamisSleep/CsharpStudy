@@ -1,0 +1,7 @@
+C:\Users\goats\Desktop\C#\ExerciseCh1_5_2\ExerciseCh1_5_2\bin\Debug\ExerciseCh1_5_2.exe.config
+C:\Users\goats\Desktop\C#\ExerciseCh1_5_2\ExerciseCh1_5_2\bin\Debug\ExerciseCh1_5_2.exe
+C:\Users\goats\Desktop\C#\ExerciseCh1_5_2\ExerciseCh1_5_2\bin\Debug\ExerciseCh1_5_2.pdb
+C:\Users\goats\Desktop\C#\ExerciseCh1_5_2\ExerciseCh1_5_2\obj\Debug\ExerciseCh1_5_2.csprojAssemblyReference.cache
+C:\Users\goats\Desktop\C#\ExerciseCh1_5_2\ExerciseCh1_5_2\obj\Debug\ExerciseCh1_5_2.csproj.CoreCompileInputs.cache
+C:\Users\goats\Desktop\C#\ExerciseCh1_5_2\ExerciseCh1_5_2\obj\Debug\ExerciseCh1_5_2.exe
+C:\Users\goats\Desktop\C#\ExerciseCh1_5_2\ExerciseCh1_5_2\obj\Debug\ExerciseCh1_5_2.pdb

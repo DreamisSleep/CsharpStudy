@@ -1,0 +1,10 @@
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\bin\Debug\WindowsPaintEventApp7-5.exe.config
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\bin\Debug\WindowsPaintEventApp7-5.exe
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\bin\Debug\WindowsPaintEventApp7-5.pdb
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\obj\Debug\WindowsPaintEventApp7-5.csprojAssemblyReference.cache
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\obj\Debug\WindowsPaintEventApp7_5.Form1.resources
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\obj\Debug\WindowsPaintEventApp7_5.Properties.Resources.resources
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\obj\Debug\WindowsPaintEventApp7-5.csproj.GenerateResource.cache
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\obj\Debug\WindowsPaintEventApp7-5.csproj.CoreCompileInputs.cache
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\obj\Debug\WindowsPaintEventApp7-5.exe
+C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsPaintEventApp7-5\obj\Debug\WindowsPaintEventApp7-5.pdb
