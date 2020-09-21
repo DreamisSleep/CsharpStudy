@@ -7,3 +7,13 @@ C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\b
 C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\bin\Debug\WindowsFormsMoveResizeApp7-6.pdb
 C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\obj\Debug\WindowsFormsMoveResizeApp7-6.exe
 C:\Users\goats\Desktop\C#\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\obj\Debug\WindowsFormsMoveResizeApp7-6.pdb
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\bin\Debug\WindowsFormsMoveResizeApp7-6.exe.config
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\bin\Debug\WindowsFormsMoveResizeApp7-6.exe
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\bin\Debug\WindowsFormsMoveResizeApp7-6.pdb
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\obj\Debug\WindowsFormsMoveResizeApp7-6.csprojAssemblyReference.cache
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\obj\Debug\WindowsFormsMoveResizeApp7_6.Form1.resources
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\obj\Debug\WindowsFormsMoveResizeApp7_6.Properties.Resources.resources
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\obj\Debug\WindowsFormsMoveResizeApp7-6.csproj.GenerateResource.cache
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\obj\Debug\WindowsFormsMoveResizeApp7-6.csproj.CoreCompileInputs.cache
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\obj\Debug\WindowsFormsMoveResizeApp7-6.exe
+C:\Users\goats\Desktop\C#\CsharpStudy\WindowsPaintEventApp7-5\WindowsFormsMoveResizeApp7-6\obj\Debug\WindowsFormsMoveResizeApp7-6.pdb
