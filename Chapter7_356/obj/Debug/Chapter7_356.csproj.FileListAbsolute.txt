@@ -1,0 +1,10 @@
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\bin\Debug\Chapter7_356.exe.config
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\bin\Debug\Chapter7_356.exe
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\bin\Debug\Chapter7_356.pdb
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\obj\Debug\Chapter7_356.csprojAssemblyReference.cache
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\obj\Debug\Chapter7_356.Form1.resources
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\obj\Debug\Chapter7_356.Properties.Resources.resources
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\obj\Debug\Chapter7_356.csproj.GenerateResource.cache
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\obj\Debug\Chapter7_356.csproj.CoreCompileInputs.cache
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\obj\Debug\Chapter7_356.exe
+C:\Users\goats\source\repos\Chapter7_356\Chapter7_356\obj\Debug\Chapter7_356.pdb

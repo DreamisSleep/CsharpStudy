@@ -1,0 +1,9 @@
+C:\Users\goats\source\repos\Chapter7_327\Chapter7_327\bin\Debug\Chapter7_327.exe.config
+C:\Users\goats\source\repos\Chapter7_327\Chapter7_327\bin\Debug\Chapter7_327.exe
+C:\Users\goats\source\repos\Chapter7_327\Chapter7_327\bin\Debug\Chapter7_327.pdb
+C:\Users\goats\source\repos\Chapter7_327\Chapter7_327\obj\Debug\Chapter7_327.Form1.resources
+C:\Users\goats\source\repos\Chapter7_327\Chapter7_327\obj\Debug\Chapter7_327.Properties.Resources.resources
+C:\Users\goats\source\repos\Chapter7_327\Chapter7_327\obj\Debug\Chapter7_327.csproj.GenerateResource.cache
+C:\Users\goats\source\repos\Chapter7_327\Chapter7_327\obj\Debug\Chapter7_327.csproj.CoreCompileInputs.cache
+C:\Users\goats\source\repos\Chapter7_327\Chapter7_327\obj\Debug\Chapter7_327.exe
+C:\Users\goats\source\repos\Chapter7_327\Chapter7_327\obj\Debug\Chapter7_327.pdb
