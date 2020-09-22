@@ -1,0 +1,10 @@
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\bin\Debug\박현서2017100922실습.exe.config
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\bin\Debug\박현서2017100922실습.exe
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\bin\Debug\박현서2017100922실습.pdb
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\obj\Debug\박현서2017100922실습.Form1.resources
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\obj\Debug\박현서2017100922실습.Properties.Resources.resources
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\obj\Debug\박현서2017100922실습.csproj.GenerateResource.cache
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\obj\Debug\박현서2017100922실습.csproj.CoreCompileInputs.cache
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\obj\Debug\박현서2017100922실습.exe
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\obj\Debug\박현서2017100922실습.pdb
+C:\Users\goats\source\repos\박현서2017100922실습\박현서2017100922실습\obj\Debug\박현서2017100922실습.csprojAssemblyReference.cache
